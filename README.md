@@ -17,3 +17,8 @@ This project fetches product data for **Computer Printers** from eBay and stores
 - **Star Rating**: The rating of the product in stars
 
 The script navigates through eBay's product pages, extracts the relevant data, and saves it into a CSV file called `computer_printers.csv`.
+
+# Example Output of the `computer_printers.csv`
+
+Below is a screenshot showing an example of how the `computer_printers.csv` file will look after scraping data: 
+![CSV Screenshot](https://github.com/vanshika-ahuja1/ebay-printer-scraping/blob/main/Screenshot%202025-01-15%20at%2011.27.32%20PM.png?raw=true)
