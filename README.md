@@ -21,4 +21,5 @@ The script navigates through eBay's product pages, extracts the relevant data, a
 # Example Output of the `computer_printers.csv`
 
 Below is a screenshot showing an example of how the `computer_printers.csv` file will look after scraping data: 
-![CSV Screenshot](https://github.com/vanshika-ahuja1/ebay-printer-scraping/blob/main/Screenshot%202025-01-15%20at%2011.27.32%20PM.png?raw=true)
+
+![CSV Screenshot](https://github.com/vanshika-ahuja1/ebay-printer-scraping/blob/main/csv-output-example.png?raw=true)
